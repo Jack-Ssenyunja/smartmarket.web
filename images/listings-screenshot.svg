@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280" role="img" aria-labelledby="listingsScreenshotTitle">
+  <title id="listingsScreenshotTitle">Active listings screenshot placeholder</title>
+  <rect width="720" height="1280" rx="40" fill="#1f8f53" />
+  <rect x="36" y="46" width="648" height="90" rx="30" fill="#fff6e6" />
+  <text x="72" y="110" fill="#a65f15" font-family="Arial, sans-serif" font-size="42" font-weight="700">Active Listings</text>
+  <rect x="36" y="160" width="648" height="180" rx="30" fill="#ffffff" />
+  <text x="72" y="228" fill="#172033" font-family="Arial, sans-serif" font-size="34" font-weight="700">Dry Maize — Grade A</text>
+  <text x="72" y="276" fill="#5b6475" font-family="Arial, sans-serif" font-size="24">500 kg · UGX 1,150 / kg · Today</text>
+  <rect x="72" y="320" width="220" height="44" rx="22" fill="#eaf8f0" />
+  <text x="90" y="352" fill="#166b3e" font-family="Arial, sans-serif" font-size="20">Contact farmer</text>
+
+  <rect x="36" y="364" width="648" height="180" rx="30" fill="#ffffff" />
+  <text x="72" y="432" fill="#172033" font-family="Arial, sans-serif" font-size="34" font-weight="700">Fresh Tomatoes</text>
+  <text x="72" y="480" fill="#5b6475" font-family="Arial, sans-serif" font-size="24">20 crates · UGX 42,000 · 1 day ago</text>
+  <rect x="72" y="524" width="220" height="44" rx="22" fill="#eef4ff" />
+  <text x="90" y="556" fill="#2c4f78" font-family="Arial, sans-serif" font-size="20">Contact farmer</text>
+</svg>
